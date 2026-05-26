@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersalidate",
+        "uuid": 10727472,
+        "checksum": "ko85nl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
